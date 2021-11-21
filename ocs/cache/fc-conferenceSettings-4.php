@@ -22,7 +22,7 @@
   ),
   'authorInformation' => 
   array (
-    'en_US' => 'Interested in submitting to this conference? We recommend that you review the <a href="http://localhost/ocs/index.php/SPBS/index/about">About the Conference</a> page for the conference\'s policies, and visit the <a href="http://localhost/ocs/index.php/SPBS/index">Conference Homepage</a> to find out what conferences are coming up.',
+    'en_US' => 'Interested in submitting to this conference? We recommend that you review the <a href="http://localhost/ocs/index.php/3rdmeet/index/about">About the Conference</a> page for the conference\'s policies, and visit the <a href="http://localhost/ocs/index.php/3rdmeet/index">Conference Homepage</a> to find out what conferences are coming up.',
   ),
   'authorSelfArchivePolicy' => 
   array (
@@ -37,7 +37,7 @@
   ),
   'description' => 
   array (
-    'en_US' => '<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus augue gravida elementum ultrices. Vivamus finibus metus non lobortis pulvinar. Sed dapibus est nisl, sit amet auctor dui eleifend at. Cras cursus libero sodales, feugiat tellus sit amet, condimentum quam. Ut sit amet ligula ut elit elementum egestas. Praesent vehicula, augue vel molestie egestas, purus dolor dignissim ante, id egestas augue turpis sed orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse facilisis libero et enim eleifend, eget aliquet lacus congue. Nulla id interdum ante. In dapibus sit amet felis sit amet tincidunt. Vivamus nec consectetur mi. Quisque vel nisl enim. Maecenas ante nisl, interdum at rhoncus ut, sollicitudin vitae dui. Pellentesque at arcu eu sem eleifend vehicula.</span>',
+    'en_US' => '<span>Suspendisse vestibulum lorem tempor, tempus tortor nec, mollis arcu. Maecenas tempus est eget molestie condimentum. Nulla nec est a justo lacinia molestie eget nec erat. Vivamus blandit nisl eros. Duis interdum aliquet mauris, ac vehicula leo placerat eget. Cras quis porttitor eros. Nulla neque erat, pretium id tristique a, laoreet interdum nibh. Donec sit amet consequat sem. Vivamus id quam dictum, sodales ligula nec, elementum nulla. Proin cursus blandit dapibus.</span>',
   ),
   'lockssLicense' => 
   array (
@@ -49,7 +49,7 @@
   ),
   'readerInformation' => 
   array (
-    'en_US' => 'We encourage readers to sign up for notification of papers posted for this conference. We recommend that you review the <a href="http://localhost/ocs/index.php/SPBS/index/about">About the Conference</a> page for the conference\'s policies, and visit the <a href="http://localhost/ocs/index.php/SPBS/index">Conference Homepage</a> to find out what conferences are coming up.',
+    'en_US' => 'We encourage readers to sign up for notification of papers posted for this conference. We recommend that you review the <a href="http://localhost/ocs/index.php/3rdmeet/index/about">About the Conference</a> page for the conference\'s policies, and visit the <a href="http://localhost/ocs/index.php/3rdmeet/index">Conference Homepage</a> to find out what conferences are coming up.',
   ),
   'title' => 
   array (
